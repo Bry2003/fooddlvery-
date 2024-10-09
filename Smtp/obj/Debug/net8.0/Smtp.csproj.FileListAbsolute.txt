@@ -1,0 +1,13 @@
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\bin\Debug\net8.0\Smtp.deps.json
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\bin\Debug\net8.0\Smtp.dll
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\bin\Debug\net8.0\Smtp.pdb
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.csproj.AssemblyReference.cache
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.sourcelink.json
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.dll
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\refint\Smtp.dll
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\Smtp.pdb
+C:\Users\PUP-LIBRARYPC3\Source\Repos\fooddelivery\Smtp\obj\Debug\net8.0\ref\Smtp.dll
